@@ -1,6 +1,6 @@
 # stopwatch
 
-This project focuses on the design of an embedded stopwatch system tailored for the LPC1768 demo board using embedded C programming. The system integrates keyboard input, a timer module, and a 7-segment display to enable precise time measurement and intuitive user interaction. The key objectives are listed as follows:
+This project focuses on the design of an embedded stopwatch system tailored for the LPC1768 demo board using embedded C programming. The system integrates keyboard input, a timer module, and a LCD display to enable precise time measurement and intuitive user interaction. The key objectives are listed as follows:
 
 1. User-Friendly Interface: The embedded stopwatch system is designed with user convenience in mind, featuring start, stop, and reset functionalities accessible via a simple keyboard interface. This ensures effortless control and enhances the overall user experience.
 
